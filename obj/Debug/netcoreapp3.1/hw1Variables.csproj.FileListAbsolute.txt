@@ -1,0 +1,14 @@
+C:\Users\Пользватель\source\repos\hw1Variables\bin\Debug\netcoreapp3.1\hw1Variables.exe
+C:\Users\Пользватель\source\repos\hw1Variables\bin\Debug\netcoreapp3.1\hw1Variables.deps.json
+C:\Users\Пользватель\source\repos\hw1Variables\bin\Debug\netcoreapp3.1\hw1Variables.runtimeconfig.json
+C:\Users\Пользватель\source\repos\hw1Variables\bin\Debug\netcoreapp3.1\hw1Variables.runtimeconfig.dev.json
+C:\Users\Пользватель\source\repos\hw1Variables\bin\Debug\netcoreapp3.1\hw1Variables.dll
+C:\Users\Пользватель\source\repos\hw1Variables\bin\Debug\netcoreapp3.1\hw1Variables.pdb
+C:\Users\Пользватель\source\repos\hw1Variables\obj\Debug\netcoreapp3.1\hw1Variables.csproj.AssemblyReference.cache
+C:\Users\Пользватель\source\repos\hw1Variables\obj\Debug\netcoreapp3.1\hw1Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользватель\source\repos\hw1Variables\obj\Debug\netcoreapp3.1\hw1Variables.AssemblyInfoInputs.cache
+C:\Users\Пользватель\source\repos\hw1Variables\obj\Debug\netcoreapp3.1\hw1Variables.AssemblyInfo.cs
+C:\Users\Пользватель\source\repos\hw1Variables\obj\Debug\netcoreapp3.1\hw1Variables.csproj.CoreCompileInputs.cache
+C:\Users\Пользватель\source\repos\hw1Variables\obj\Debug\netcoreapp3.1\hw1Variables.dll
+C:\Users\Пользватель\source\repos\hw1Variables\obj\Debug\netcoreapp3.1\hw1Variables.pdb
+C:\Users\Пользватель\source\repos\hw1Variables\obj\Debug\netcoreapp3.1\hw1Variables.genruntimeconfig.cache

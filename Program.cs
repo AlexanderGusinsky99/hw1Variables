@@ -55,9 +55,9 @@ namespace hw1Variables
             Console.WriteLine("Enter x for point 2:");
             double pointTwoX = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Enter y for point 2:");
-            double PointTwoY = Convert.ToDouble(Console.ReadLine());
-            double k = (pointOneY - PointTwoY)/(pointOneX - pointTwoX);
-            double b = PointTwoY - k * pointTwoX;
+            double pointTwoY = Convert.ToDouble(Console.ReadLine());
+            double k = (pointOneY - pointTwoY) / (pointOneX - pointTwoX);
+            double b = pointTwoY - k * pointTwoX;
             Console.WriteLine($"Result: y = {k}*x + {b}");
         }
     }
